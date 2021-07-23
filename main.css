@@ -1,0 +1,519 @@
+header, nav, section, footer {
+    display: block;
+}
+
+/* *{ border: 1px solid red; } */
+
+body, html {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF;
+    background-image: url("images/wallpaper3.png");
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: absolute;
+    background-position: center;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 100%;
+    font-weight: 300;
+}
+
+#pagecontainer {
+    position: relative;
+    min-height: 100vh;
+}
+
+a {
+    color:rgb(207, 58, 145);
+}
+
+header {
+    width: 100%;
+    height: 75px;
+    border-bottom: 1px solid #CCC;
+    background-color: #FFF;
+}
+
+#headerbanner {
+    display: inline;
+    background-color: #FFF;
+    width: 500px;
+}
+
+#headerbanner h1 {
+    float: left;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 150%;
+    margin: 0;
+    padding-top: 25px;
+    padding-right: 5px;
+    text-shadow: 1px 1px 2px #CCC; 
+}
+
+#headerbanner h2 {
+    float: left;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 100%;
+    margin: 0;
+    padding-top: 32px;
+}
+
+#logo {
+    float: left;
+    height: 75px;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    float: right;
+    padding: 0px;
+    margin: 0;
+    width: 375px;
+}
+
+nav ul {
+    list-style: none;
+    padding-top: 15px;
+    padding-left: 0px;
+    text-align: right;
+}
+
+nav li {
+    display: inline;
+    margin-right: 3%;
+    padding: 2%;
+    border: 1px solid #CCC;
+    border-radius: 10px;
+}
+
+nav a {
+    font-family: 'Roboto', sans-serif;
+    color: #000;
+    text-decoration: none;
+    font-size: 100%;
+    font-weight: 300;
+}
+
+#wrap {
+    clear: both;
+    width: 100%;
+    z-index: 1;
+    position: relative;
+    padding-bottom: 141px;
+}
+
+.strip1 {
+    background-image: url(images/spacewallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    width: 38%;
+    height: 100%;
+    float: left;
+    z-index: 2;
+    position: absolute;
+}
+
+.strip2 {
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 62%;
+    height: 100%;
+    margin-left: 38%;
+    float: left;
+    z-index: 2;
+    position: absolute;
+}
+
+.column1 {
+    margin: 0;
+    padding: 0;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 25%;
+    height: 80%;
+    float: left;
+    position: relative;
+    z-index: 5;
+}
+
+.column2 {
+    margin: 0;
+    padding: 0;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 50%;
+    height: 80%;
+    float: left;
+    position: relative;
+    display: inline;
+    z-index: 5;
+}
+
+.column2 section {
+    width: 50%;
+    float: left;
+    margin-left: 5%;
+    padding-top: 5%;
+    padding-bottom: 10%;
+}
+
+.column2 section ul {
+    font-size: 110%;
+}
+
+.column2 #videoframe {
+    text-align: center;
+}
+
+.sectionh1 {
+    font-size: 350%;
+    font-weight: 800;
+}
+
+.sectionh2 {
+    font-size: 150%;
+    font-weight: 600;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.column2 section p {
+    font-size: 110%;
+}
+
+#photoframe {
+    float: left;
+    width: 40%;
+    height: 100%;
+    background-color: #004D73;
+    -webkit-box-shadow:0 5px 5px rgba(0, 0, 0, 0.4), 0 0 20px rgba(131, 106, 77, 0) inset;
+       -moz-box-shadow:0 5px 5px rgba(0, 0, 0, 0.4), 0 0 20px rgba(131, 131, 131, 0) inset;
+            box-shadow:0 5px 8px rgba(0, 0, 0, 0.4), 0 0 20px rgba(131, 131, 131, 0) inset;
+}
+
+#photoframe p {
+    padding-left: 10px;
+    position: relative;
+    bottom: 10px;
+    font-size: 125%;
+    font-weight: 300;
+}
+
+#photoframe-photo {
+    height: 90%;
+    width: 100%;
+    text-align: center;
+}
+
+#photoframe-photo p {
+    padding: 2%;
+}
+
+#photoframe-photo img {
+    border: 1px solid #CCC;
+    box-shadow: 5px 5px 5px #444;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    -webkit-box-shadow:0 5px 5px rgba(0, 0, 0, 0.4), 0 0 20px rgba(131, 106, 77, 0) inset;
+       -moz-box-shadow:0 5px 5px rgba(0, 0, 0, 0.4), 0 0 20px rgba(131, 131, 131, 0) inset;
+            box-shadow:0 5px 8px rgba(0, 0, 0, 0.4), 0 0 20px rgba(131, 131, 131, 0) inset;
+}
+
+#photoframe-socials {
+    width: 100%;
+    height: 10%;
+    background-color: #FFF;
+    text-align: center;
+}
+
+#photoframe-socials img {
+    width: 35px;
+    height: 35px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+}
+
+.quote {
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    font-size: 125%;
+}
+
+.quotename {
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 125%;
+}
+
+.column3 {
+    padding: 0;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 25%;
+    height: 80%;
+    float: left;
+    position: relative;
+    z-index: 5;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 141px;
+    clear: both;
+    border-top: 1px solid #CCC;
+    z-index: 5;
+    background-color: #FFFFFF;
+}
+
+#copyright {
+    float: left;
+    padding-left: 1%;
+    position: relative;
+    top: 45px;
+}
+
+.subhead {
+    text-align: right;
+    padding-right: 1%;
+    font-weight: 800;
+    position: relative;
+    top: 10px;
+}
+
+.subhead p {
+    font-weight: 300;
+    position: relative;
+    bottom: 15px;
+}
+
+/* media query for medium screen/tablet */
+@media only screen and (max-width: 885px) {
+
+    header {
+        height: initial;
+    }
+
+    #logo {
+        padding-top: 5px;
+    }
+
+    #headerbanner h1 {
+        float: none;
+        text-align: center;
+    }
+    
+    #headerbanner h2 {
+        float: none;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+    }
+    
+    nav {
+        float: none;
+        display: block;
+        position: relative;
+        z-index: 5;
+        background-color: #FFF; 
+        padding: 0;
+        margin: 0;
+        width: 100%;
+        border-bottom: 1px solid #CCC;
+    }
+    
+    nav ul {
+        margin: 0;
+        list-style: none;
+        padding-top: 25px;
+        padding-bottom: 25px;
+        text-align: center;
+    }
+    
+    nav li {
+        display: inline-block;
+        margin-right: 3%;
+        padding: 1%;
+        border: 1px solid #CCC;
+        border-radius: 10px;
+    }
+
+    .column1 {
+        margin-top: 5%;
+        margin-bottom: 5%;
+        width: 5%;
+        height: 90%;
+    }
+    
+    .column2 {
+        margin-top: 5%;
+        margin-bottom: 5%;
+        width: 90%;
+        height: 90%;
+    }
+
+    .column2 section {
+        margin-left: 5%;
+    }
+
+    #photoframe-photo {
+        padding-bottom: 0px;
+    }
+
+    #photoframe-socials {
+        margin-top: 0px;
+        text-align: center;
+    }
+    
+    #photoframe-socials img {
+        width: 35px;
+        height: 35px;
+        padding-top: 20px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .column3 {
+        margin-top: 5%;
+        margin-bottom: 5%;
+        width: 5%;
+        height: 90%;
+    }
+
+}
+
+/* media query for small screen/phones */
+@media only screen and (max-width: 480px) {
+
+    body, html {
+        background-image: none;
+    }
+
+    header {
+        border: none;
+    }
+
+    #logo {
+        padding-top: 0px;
+        height: 50px;
+        position: relative;
+        top: 20px;
+    }
+    
+    .strip1, .strip2 {
+        display: none;
+    }
+
+    nav {
+        float: none;
+        padding: 0px;
+        margin: 0;
+        width: 100%;
+    }
+    
+    nav ul {
+        list-style: none;
+        padding-top: 15px;
+        padding-bottom: 0px;
+        padding-left: 5px;
+        padding-right: 5px;
+        text-align: center;
+    }
+    
+    
+    nav li {
+        display: block;
+        margin-right: 0;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        border: none;
+        border-radius: 0;
+        border-bottom: 1px solid #CCC;
+    }
+
+    nav li:last-child {
+        display: block;
+        margin-right: 0;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        border: none;
+        border-radius: 0;
+        border-bottom: none;
+    }
+    
+    #wrap {
+        height: initial;
+    }
+
+    .column2 {
+        width: 90%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    .column2 section {
+        display: block;
+        float: none;
+        clear: both;
+        background-color: #FFFFFF;
+        width: 100%;
+        margin-top: 25px;
+        margin-left: 0px;
+    }
+
+    #photoframe {
+        display: block;
+        clear: both;
+        float: none;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        -webkit-box-shadow: none;
+       -moz-box-shadow: none;
+            box-shadow: none;
+    }
+
+    #photoframe-socials {
+        width: 100%;
+        position: relative;
+        top: 2px;
+    }
+
+    #photoframe-socials img {
+        height: 35px;
+        width: 35px;
+        position: relative;
+        bottom: 10px;
+    }
+
+    #copyright {
+        font-size: 75%;
+    }
+    
+    .subhead {
+        top: 25px;
+        font-size: 75%;
+    }
+    
+    .subhead p {
+        font-weight: 300;
+        position: relative;
+        bottom: 10px;
+    }
+
+}

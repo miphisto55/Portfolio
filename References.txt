@@ -1,0 +1,63 @@
+// -------------------------------------------------------------------------------------------------------------------
+// Wallpapers
+// -------------------------------------------------------------------------------------------------------------------
+
+spacewallpaper - https://www.setaswall.com/earth-wallpapers/clouds-outer-space-planets-earth-wallpaper-1920x1200-2/
+
+forestwallpaper - https://eskipaper.com/forest-12.html
+
+redforestwallpaper - https://wallpaperaccess.com/great-nature
+
+celestialwallpaper - https://wallpaperaccess.com/great-nature
+
+// -------------------------------------------------------------------------------------------------------------------
+// Pictures
+// -------------------------------------------------------------------------------------------------------------------
+
+piano_guitar - https://www.cmuse.org/wp-content/uploads/2019/05/Piano-and-Guitar-Duets.jpg
+
+Legend of Zelda: Ocarina of Time rankings - https://reason.com/2018/12/11/legend-of-zelda-ocarina-of-time-greatest/
+
+// -------------------------------------------------------------------------------------------------------------------
+// Logos
+// -------------------------------------------------------------------------------------------------------------------
+
+audacity_logo - https://cdn.techjockey.com/web/assets/images/techjockey/products/15002_15002_audacity-P.jpg
+
+cpp_logo - https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png
+
+css_logo - https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png
+
+facebook_logo - https://p.kindpng.com/picc/s/22-223236_black-and-white-fb-icon-hd-png-download.png
+
+fanshawe_logo - https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Fanshawe_College_Logo_vecotrized.svg/1200px-Fanshawe_College_Logo_vecotrized.svg.png
+
+git_logo - https://i2.wp.com/orion42.net/wp-content/uploads/2019/05/git-logo.png?fit=1200%2C1200&ssl=1
+
+html5_logo - https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png
+
+java_logo - https://cdn.vox-cdn.com/thumbor/VoXJ8IaxCj5_U-366JhtUHLkdQ0=/0x0:640x427/1400x1050/filters:focal(0x0:640x427):format(jpeg)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg
+
+lhsc_logo - https://www.lhsc.on.ca/sites/default/files/styles/one_third_size/public/images/2019-08/lhsc_icon_pos_2c_rgb.gif?itok=kHXinCfF
+
+linkedin_logo - https://www.kindpng.com/picc/m/82-824645_linkedin-logo-black-and-white-png-logo-linkedin.png
+
+livercare_logo - https://media-exp1.licdn.com/dms/image/C510BAQG_3Bev5hcQzQ/company-logo_200_200/0/1519877875790?e=2159024400&v=beta&t=6CKrhuAGouop55AgNLtZIUfcZ7LX0EgiF-r1fU_zGb8
+
+pbc_logo - https://pictures.alignable.com/eyJidWNrZXQiOiJhbGlnbmFibGV3ZWItcHJvZHVjdGlvbiIsImtleSI6ImJ1c2luZXNzZXMvbG9nb3Mvc3F1YXJlLzI3MDU4NDMvMTUyMjMzNDA1OV9ibG9iIiwiZWRpdHMiOnt9fQ==
+
+photoshop_logo - https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png
+
+sql_logo - https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png
+
+timhortons_logo - https://cms-tpq.theparq.com/wp-content/uploads/2020/07/Logo-Tim-Hortons-for-The-Parq-red-01.png
+
+unity_logo - https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/81157820-f93c-485b-a858-9c4521352244
+
+western_logo - https://communications.uwo.ca/img/logo_teasers/Stacked.gif
+
+youtube_logo - https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/YouTube_dark_icon_%282017%29.svg/640px-YouTube_dark_icon_%282017%29.svg.png
+
+
+
+
